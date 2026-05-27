@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fabriziozandonella.github.io/viamagi-static/wp-content/plugins/slim-seo/src/Sitemaps/style.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://fabriziozandonella.github.io/viamagi-static/category/metodo-imm/</loc>
+	</url>
+	<url>
+		<loc>https://fabriziozandonella.github.io/viamagi-static/category/pianificazione-e-gestione/</loc>
+	</url>
+	<url>
+		<loc>https://fabriziozandonella.github.io/viamagi-static/category/rituali/</loc>
+	</url>
+	<url>
+		<loc>https://fabriziozandonella.github.io/viamagi-static/category/scienza/</loc>
+	</url>
+	<url>
+		<loc>https://fabriziozandonella.github.io/viamagi-static/category/sviluppo-personale/</loc>
+	</url>
+</urlset>
